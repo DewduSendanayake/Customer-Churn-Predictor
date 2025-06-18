@@ -3,9 +3,11 @@
 > Predict customer churn with ease and elegance, and just the right touch of pastel.
 
 
+
 ## 🧠 Overview
 
 The **Customer Churn Predictor** is a visually captivating and machine learning–powered web application built with **Streamlit**. It uses a trained **XGBoost model** to calculate churn risk probabilities for telecom customers based on key features such as tenure, monthly charges, and customer relationships.
+
 
 
 ## 🎯 Objectives
@@ -16,6 +18,7 @@ The **Customer Churn Predictor** is a visually captivating and machine learning�
 - Provide a ML pipeline with modularity and maintainability.
 
 
+
 ## 🔍 Features
 
 - ✅ Real-time churn prediction using a pre-trained XGBoost model.
@@ -23,6 +26,7 @@ The **Customer Churn Predictor** is a visually captivating and machine learning�
 - ✅ One-hot encoding and feature alignment based on training schema.
 - ✅ Minimalist UI with pastel cube-inspired themes for a modern twist.
 - ✅ Designed to be deployed on **Streamlit Cloud** with minimal setup.
+
 
 
 ## 🧩 Tech Stack
@@ -37,11 +41,14 @@ The **Customer Churn Predictor** is a visually captivating and machine learning�
 | Dev Tools    | Jupyter, VS Code, GitHub             |
 
 
+
 ## 🎨 UI Preview
 
 <p align="center">
   <img src="Screenshot 2025-06-18 193726.png" alt="UI Screenshot" width="800"/>
 </p>
+
+
 
 ## 📄 License
 
