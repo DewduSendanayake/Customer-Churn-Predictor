@@ -1,14 +1,12 @@
-# 💔 Pastel Churn Predictor
+# Customer Churn Predictor 🪄
 
-> Predict customer churn with elegance, intelligence, and just the right touch of pastel.
+> Predict customer churn with ease and elegance, and just the right touch of pastel.
 
 ---
 
 ## 🧠 Overview
 
-The **Pastel Churn Predictor** is a visually captivating and machine learning–powered web application built with **Streamlit**. It leverages a trained **XGBoost model** to calculate churn risk probabilities for telecom customers based on key features such as tenure, monthly charges, and customer relationships.
-
-This project blends **technical rigor** with **artistic UI/UX design**, transforming churn prediction into an intuitive, soft-toned user experience.
+The **Customer Churn Predictor** is a visually captivating and machine learning–powered web application built with **Streamlit**. It uses a trained **XGBoost model** to calculate churn risk probabilities for telecom customers based on key features such as tenure, monthly charges, and customer relationships.
 
 ---
 
@@ -17,7 +15,7 @@ This project blends **technical rigor** with **artistic UI/UX design**, transfor
 - Predict whether a customer is likely to churn or stay.
 - Showcase interpretable and actionable ML results.
 - Deliver an artistic, user-friendly interface with pastel-inspired design principles.
-- Provide a full-stack ML pipeline with modularity and maintainability.
+- Provide a ML pipeline with modularity and maintainability.
 
 ---
 
